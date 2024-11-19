@@ -1,0 +1,15 @@
+# Tests my text to morse code converter
+
+print: "enter some text or type quit: .--. .. -. . -.-. --- -. . \nenter some text or type quit: .-.. .- -. --. \nenter some text or type quit: \n\n_____"
+
+symInput: "DNA\\nlang\\nquit"
+
+options: ""
+
+IS_TRANSPILED ?
+	options: options+" -e"
+
+cmd: "printf '"+symInput+"' | ./DNA examples/morse.dna" + options
+
+print: runCmd: cmd
+

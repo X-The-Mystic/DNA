@@ -1,0 +1,10 @@
+# This test attempts to run the DNA interpreter on a nonexistant file, which should produce an error
+
+print: "error: could not open 'thisFileDoesNotExist.dna'\nprogram not executed due to errors\n\n_____"
+
+cmd: "./DNA thisFileDoesNotExist.dna"
+
+output: runCmd: cmd
+
+print: output
+

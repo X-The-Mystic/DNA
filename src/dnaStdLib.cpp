@@ -1,10 +1,10 @@
-#include "../h/DNAProgram.h"
-#include "../h/AllOperators.h"
-#include "../h/StackFrame.h"
-#include "../h/Namespace.h"
-#include "../h/CppProgram.h"
+#include "../h/dnaProgram.h"
+#include "../h/allOperators.h"
+#include "../h/stackFrame.h"
+#include "../h/namespace.h"
+#include "../h/cppProgram.h"
 #include "../h/utils/stringUtils.h"
-#include "../h/Type.h"
+#include "../h/type.h"
 
 #define CONCAT(a,b) a##_##b
 #define GET_TYPES_Tuple(t0, t1) t0, t1

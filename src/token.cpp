@@ -1,4 +1,4 @@
-#include "../h/Token.h"
+#include "../h/token.h"
 #include "../h/msclStringFuncs.h"
 #include "../h/utils/stringUtils.h"
 

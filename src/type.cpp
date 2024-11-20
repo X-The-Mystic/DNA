@@ -1,6 +1,6 @@
-#include "../h/Type.h"
-#include "../h/ErrorHandler.h"
-#include "../h/CppProgram.h"
+#include "../h/type.h"
+#include "../h/errorHandler.h"
+#include "../h/cppProgram.h"
 #include "../h/msclStringFuncs.h"
 
 #include <sstream>

@@ -1,6 +1,6 @@
-#include "../h/StackFrame.h"
+#include "../h/stackFrame.h"
 #include "../h/msclStringFuncs.h"
-#include "../h/ErrorHandler.h"
+#include "../h/errorHandler.h"
 
 void* globalFramePtr=nullptr;
 void* stackPtr=nullptr;

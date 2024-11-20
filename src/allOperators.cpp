@@ -1,7 +1,5 @@
-
-
-#include "../h/AllOperators.h"
-#include "../h/ErrorHandler.h"
+#include "../h/allOperators.h"
+#include "../h/errorHandler.h"
 
 //shared_ptr<AllOperators> ops(nullptr);
 AllOperators* ops=nullptr;

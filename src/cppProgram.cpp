@@ -1,4 +1,4 @@
-#include "../h/CppProgram.h"
+#include "../h/cppProgram.h"
 #include "../h/msclStringFuncs.h"
 
 #include <map>

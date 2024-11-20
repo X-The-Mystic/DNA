@@ -1,7 +1,7 @@
-#include "../h/Action.h"
-#include "../h/Token.h"
-#include "../h/ErrorHandler.h"
-#include "../h/Namespace.h"
+#include "../h/action.h"
+#include "../h/token.h"
+#include "../h/errorHandler.h"
+#include "../h/namespace.h"
 
 extern Namespace globalNamespace;
 

@@ -1,8 +1,8 @@
 
-#include "../../h/Action.h"
-#include "../../h/ErrorHandler.h"
-#include "../../h/StackFrame.h"
-#include "../../h/AstNode.h"
+#include "../../h/action.h"
+#include "../../h/errorHandler.h"
+#include "../../h/stackFrame.h"
+#include "../../h/astNode.h"
 #include "../../h/utils/stringNumConversion.h"
 #include "../../h/utils/stringUtils.h"
 

@@ -1,9 +1,9 @@
-#include "../h/AstNode.h"
-#include "../h/Namespace.h"
-#include "../h/ErrorHandler.h"
+#include "../h/astNode.h"
+#include "../h/namespace.h"
+#include "../h/errorHandler.h"
 #include "../h/msclStringFuncs.h"
 #include "../h/utils/stringDrawing.h"
-#include "../h/AllOperators.h"
+#include "../h/allOperators.h"
 
 //AstNode astVoid=AstNode(new AstVoid);
 

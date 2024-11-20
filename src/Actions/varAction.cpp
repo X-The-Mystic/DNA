@@ -1,9 +1,9 @@
-#include "../../h/Action.h"
-#include "../../h/ErrorHandler.h"
-#include "../../h/StackFrame.h"
-#include "../../h/CppProgram.h"
+#include "../../h/action.h"
+#include "../../h/errorHandler.h"
+#include "../../h/stackFrame.h"
+#include "../../h/cppProgram.h"
 #include "../../h/utils/stringNumConversion.h"
-#include "../../h/Namespace.h"
+#include "../../h/mamespace.h"
 #include "../../h/utils/stringDrawing.h"
 
 class VarGetAction: public ActionData

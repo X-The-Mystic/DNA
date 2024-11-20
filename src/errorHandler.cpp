@@ -1,7 +1,6 @@
-
-#include "../h/ErrorHandler.h"
+#include "../h/errorHandler.h"
 #include "../h/msclStringFuncs.h"
-#include "../h/SourceFile.h"
+#include "../h/sourceFile.h"
 
 #include <iostream>
 

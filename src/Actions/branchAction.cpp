@@ -1,6 +1,6 @@
-#include "../../h/Action.h"
-#include "../../h/ErrorHandler.h"
-#include "../../h/CppProgram.h"
+#include "../../h/action.h"
+#include "../../h/errorHandler.h"
+#include "../../h/cppProgram.h"
 #include "../../h/utils/stringDrawing.h"
 
 class BranchAction: public ActionData

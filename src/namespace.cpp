@@ -1,7 +1,7 @@
-#include "../h/Namespace.h"
-#include "../h/StackFrame.h"
+#include "../h/namespace.h"
+#include "../h/stackFrame.h"
 #include "../h/msclStringFuncs.h"
-#include "../h/ErrorHandler.h"
+#include "../h/errorHandler.h"
 #include "../h/utils/stringNumConversion.h"
 
 void NamespaceData::IdMap::add(string key, AstNode node)

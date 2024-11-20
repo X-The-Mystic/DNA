@@ -1,7 +1,5 @@
-#include "../../h/Action.h"
-
-#include "../../h/ErrorHandler.h"
-
+#include "../../h/action.h"
+#include "../../h/errorHandler.h"
 #include "../../h/msclStringFuncs.h"
 
 ActionData::ActionData(Type returnTypeIn, Type inLeftTypeIn, Type inRightTypeIn)

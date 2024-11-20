@@ -1,8 +1,8 @@
-#include "../h/Token.h"
-#include "../h/ErrorHandler.h"
-#include "../h/Operator.h"
-#include "../h/AllOperators.h"
-#include "../h/SourceFile.h"
+#include "../h/token.h"
+#include "../h/errorHandler.h"
+#include "../h/operator.h"
+#include "../h/allOperators.h"
+#include "../h/sourceFile.h"
 
 #include <vector>
 using std::vector;

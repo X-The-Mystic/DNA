@@ -1,8 +1,7 @@
-#include "../h/DNAProgram.h"
-#include "../h/ErrorHandler.h"
-#include "../h/Operator.h"
-#include "../h/AllOperators.h"
-#include "../h/CppProgram.h"
+#include "../h/allOperators.h"
+#include "../h/cppProgram.h"
+#include "../h/errorHandler.h"
+#include "../h/dnaProgram.h"
 
 void populateDNAStdLib();
 void lexString(shared_ptr<SourceFile> file, vector<Token>& tokens);

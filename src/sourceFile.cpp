@@ -1,4 +1,4 @@
-#include "../h/SourceFile.h"
+#include "../h/sourceFile.h"
 #include "../h/utils/fileUtils.h"
 #include "../h/msclStringFuncs.h"
 

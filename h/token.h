@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Operator.h"
+#include "operator.h"
 
 #include <string>
 using std::string;

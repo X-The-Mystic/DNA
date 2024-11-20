@@ -1,10 +1,10 @@
 #pragma once
 
-#include "Type.h"
-#include "Action.h"
-#include "Token.h"
-#include "Operator.h"
-#include "AstNode.h"
+#include "type.h"
+#include "action.h"
+#include "token.h"
+#include "operator.h"
+#include "astNode.h"
 
 #include <unordered_map>
 using std::unordered_map;

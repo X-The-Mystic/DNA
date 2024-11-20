@@ -3,7 +3,7 @@
 #include <vector>
 using std::vector;
 
-#include "Type.h"
+#include "type.h"
 //#include "Action.h"
 
 extern void* globalFramePtr;

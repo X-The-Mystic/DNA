@@ -1,6 +1,6 @@
 #pragma once
 
-#include "VERSION.h"
+#include "versiom.h"
 
 #include <string>
 #include <iostream>
@@ -19,9 +19,9 @@ using std::list;
 
 #include "msclStringFuncs.h"
 #include "namespace.h"
-#include "StackFrame.h"
-#include "Token.h"
-#include "AstNode.h"
+#include "stackFrame.h"
+#include "token.h"
+#include "astNode.h"
 #include "sourceFile.h"
 
 extern vector<string> cmdLineArgs;

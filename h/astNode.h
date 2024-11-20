@@ -1,8 +1,8 @@
 #pragma once
 
-#include "Token.h"
-#include "Action.h"
-#include "ErrorHandler.h"
+#include "token.h"
+#include "action.h"
+#include "errorHandler.h"
 
 class NamespaceData;
 typedef shared_ptr<NamespaceData> Namespace;

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "versiom.h"
+#include "VERSION.h"
 
 #include <string>
 #include <iostream>

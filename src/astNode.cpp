@@ -245,7 +245,7 @@ void AstConstExpression::resolveConstant()
 	
 	//error.log("resolveAction called for "+getString(), JSYK);
 	
-	ns->addNode(move(rightIn->makeCopy(true)), center->token->getText());
+	ns->addNode(rightIn->makeCopy(true), center->token->getText());
 	
 	/*
 	Action rightAction=rightIn->getAction();
